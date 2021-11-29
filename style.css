@@ -47,5 +47,13 @@ table thead th{
 .sun{
     color: red;
 }
+p{
+    background-color: bisque;
+    width:170px;
+    padding: 5px;
+    border-radius: 10px;
+    float: right;
+    font-size: 10px;
+}
 
 
